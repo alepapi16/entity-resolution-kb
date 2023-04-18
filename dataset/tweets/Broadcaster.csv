@@ -1,0 +1,11 @@
+,tweets,mentions
+1,"RT @TheDailyShow: Nobody understands law &amp; order better than these Fox News crime experts https://t.co/SgggAAWbSZ","{'Fox_News':'Broadcaster'}"
+2,"@revrrlewis @Troy2k Fox news turns on their own for donald trump. Shocked, I tell you.","{'Fox_News':'Broadcaster', 'Donald_Trump':'Politician'}"
+3,"@ABC @MarthaRaddatz F this guy. I’m sure he has written a truthful, interesting book but I hope he doesn’t sell a copy. Such a lowlife traitor. The Dems were too political for him to speak up? They didn’t impeach on additional charges? What a terrified little mouse. Selling out America for profit.","{'ABC_News':'Broadcaster','Democratic_Party_(United_States)':'Organisation','America':'Settlement'}"
+4,"RT @therealfrfr: @Cernovich Well, it’s crazy times but when ABC, NBC and Fox are leading with Bolton it’s hard not to give it attention. If…","{'ABC_News':'Broadcaster','NBC_News':'Broadcaster','Fox_News':'Broadcaster','John_Bolton':'Politician'}"
+5,"RT @of_kurth: The Daytime Emmys will be on TV this year! Watch on CBS Fri, June 26 @ 8pm EST. Tune in &amp; support Wally as he is nominated fo…","{'Emmy_Award':'SocietalEvent','CBS_News':'Broadcaster'}"
+6,"RT @JacksonWang852: Hey LA! I'm joining @itismeej on @1027KIISFM tonight at 9PM PT. Listen here! https://t.co/7qjMqBnQcb","{'Los_Angeles':'Settlement','KIIS-FM':'Broadcaster'}"
+7,"RT @1027KIISFM: Tell us why your dad is your hero to win him a #FathersDay prize pack ! Enter: https://t.co iChpKmRWOc It includes: $1…","{'KIIS-FM':'Broadcaster','Fathers_Day':'SocietalEvent'}"
+8,"RT @michaelbeatty3: That Seattle thing? No biggie It's just FOX NEWS digitally altering pics says Washington's Rep. Pramila Jayapal","{'Seattle':'Settlement', 'Fox_News':'Breoadcaster','Washington':'Settlement'}"
+9,"RT @ABC: NEW: 'I don't think he's fit for office,' former national security adviser John Bolton says of Pres. Trump. 'I don't think he has…","{'ABC_News':'Broadcaster', 'John_Bolton':'Politician','Donald_Trump':'Politician'}"
+10,"RT @JamesMelville: The Daily Mail and Fox News are where people who hate ethnic minorities, people who hate gays and people who hate climat…","{'Daily_Mail':'Broadcaster','Fox_News':'Broadcaster'}"
